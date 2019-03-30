@@ -7,7 +7,7 @@
 		"url": "https://github.com/energychain/discovergy_gsi_obis/issues"
 	},
 	"license": "ISC",
-	"main": "lib/gsiobis.js",
+	"main": "lib/gsi_discovergy.js",
 	"bin": {
 		"gsi-discovergy": "./index.js"
 	},
