@@ -1,6 +1,6 @@
 {
 	"name": "gsi-discovergy",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "GrünstromIndex - Decorator für Discovergy Zähler",
 	"homepage": "https://github.com/energychain/discovergy_gsi_obis#readme",
 	"bugs": {
