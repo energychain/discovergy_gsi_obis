@@ -1,0 +1,25 @@
+{
+  "name": "gsi-discovergy",
+  "version": "1.0.10",
+  "description": "GrünstromIndex - Decorator für Discovergy Zähler",
+  "homepage": "https://github.com/energychain/discovergy_gsi_obis#readme",
+  "bugs": {
+    "url": "https://github.com/energychain/discovergy_gsi_obis/issues"
+  },
+  "license": "ISC",
+  "main": "lib/gsi_discovergy.js",
+  "bin": {
+    "gsi-discovergy": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/discovergy_gsi_obis.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "request": "^2.88.0"
+  }
+}
